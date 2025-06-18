@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Campagne de Parrainage ACCGN</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background-color: #f7f9fc;
+      color: #333;
+      text-align: center;
+    }
+    h1 {
+      color: #2a9d8f;
+    }
+    p {
+      font-size: 1.1rem;
+      margin: 1rem 0;
+    }
+    .qr-code {
+      margin: 2rem 0;
+    }
+    .btn-whatsapp {
+      display: inline-block;
+      background-color: #25d366;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Campagne de Parrainage ACCGN</h1>
+  <p>Bienvenue dans la campagne de parrainage ACCGN !<br />Rejoignez notre communauté et profitez de nombreux avantages exclusifs.</p>
+
+  <h2>📲 Rejoignez notre groupe WhatsApp</h2>
+  <p>Scannez le QR code ci-dessous pour accéder directement au groupe WhatsApp :</p>
+  <div class="qr-code">
+    <img src="https://qrco.de/bg5aPK" alt="QR Code vers groupe WhatsApp" width="200" />
+  </div>
+  <a class="btn-whatsapp" href="https://chat.whatsapp.com/LrzyMTFPJlDBG8DlA05hy2" target="_blank" rel="noopener noreferrer">Rejoindre le groupe WhatsApp</a>
+
+  <h2>Pourquoi nous rejoindre ?</h2>
+  <ul style="text-align: left; max-width: 400px; margin: 1rem auto;">
+    <li>✔ Un espace d’échanges et de conseils</li>
+    <li>✔ Un suivi personnalisé pour chaque nouveau membre</li>
+    <li>✔ Des ressources exclusives pour progresser rapidement</li>
+    <li>✔ Des événements et challenges réguliers</li>
+  </ul>
+
+  <h2>Comment ça marche ?</h2>
+  <ol style="text-align: left; max-width: 400px; margin: 1rem auto;">
+    <li>Rejoignez le groupe WhatsApp via le QR code</li>
+    <li>Présentez-vous dans le groupe</li>
+    <li>Profitez du suivi personnalisé et des ressources</li>
+    <li>Partagez avec vos contacts et faites grandir la communauté</li>
+  </ol>
+
+  <footer>
+    <p>Pour toute question, contactez-nous à :<br />
+    <strong>ibneatiaimrane@gmail.com</strong><br />
+    ou via WhatsApp au : <strong>+33 6 64 38 64 58</strong></p>
+  </footer>
+</body>
+</html>
